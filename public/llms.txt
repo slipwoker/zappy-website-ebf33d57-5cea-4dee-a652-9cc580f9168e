@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הורידו עכשיו דפי צביעה דתיים להדפסה לילדים! פעילויות יצירה לחגים, פרשת שבוע ומצוות. מותאם לקהל חרדי ודתי עם ערכים של צניעות ויהדות.
+
+### קולקציות
+https://example.com/collections
+גלו את מגוון הקולקציות שלנו: דפי צביעה לחנוכה, פורים, פסח, סוכות ועוד. כל קולקציה מותאמת במיוחד לערכי היהדות והצניעות עם עיצובים מקסימים.
+
+### אודות
+https://example.com/about
+צבעוני מביא לכם מוצרים דיגיטליים ייחודיים המשלבים יצירתיות עם ערכי יהדות וצניעות. למדו על החזון שלנו ליצור חוויות למידה משמעותיות לילדים.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה או בקשה מיוחדת? צרו איתנו קשר ונחזור אליכם במהירות. אנחנו כאן כדי להפוך את החוויה שלכם למושלמת עם דפי הצביעה שלנו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - צבעוני
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - צבעוני
+
+### Category
+https://example.com/category/:slug
+מוצרים - צבעוני
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
